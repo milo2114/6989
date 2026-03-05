@@ -1,0 +1,4 @@
+#este archivo impide q se suban los archibos basura 
+
+__pycache__/
+*.pyc
